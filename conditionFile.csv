@@ -1,0 +1,10 @@
+video_trial,image_trial,emotion1,emotion2,num_emotion1,num_emotion2,video1,video2,video3,video4,video5,video6,video7,video8,video9,video10,video11,video12
+1,0,A,H,3,9,emotion1,emotion1,emotion1,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2
+1,0,A,H,6,6,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2
+1,0,A,H,9,3,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion2,emotion2,emotion2
+1,0,A,S,3,9,emotion1,emotion1,emotion1,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2
+1,0,A,S,6,6,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2
+1,0,A,S,9,3,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion2,emotion2,emotion2
+1,0,H,S,3,9,emotion1,emotion1,emotion1,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2
+1,0,H,S,6,6,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion2,emotion2,emotion2,emotion2,emotion2,emotion2
+1,0,H,S,9,3,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion1,emotion2,emotion2,emotion2
